@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://github.com/sam1090/sam1090/assets/106151931/9ffad651-a7cb-47e4-b7cf-f2605c9a73c1" width="100%" height="300">
+</p>
+
 <h1 align="center">Greetings 👋, I'm Saumya</h1>
-<h3 align="center">I specialize in full-stack development.</h3>
+<h3 align="center">I specialize in programming and full-stack development.</h3>
+
+<img align="right" src="https://github.com/urvashi1210/urvashi1210/blob/main/git1.gif" height="20%" width="20%" >
 
 - 🔭 I’m currently working on **MERN Projects.**
 

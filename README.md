@@ -5,7 +5,7 @@
 <h1 align="center">Greetings 👋, I'm Saumya</h1>
 <h3 align="center">I specialize in programming and full-stack development.</h3>
 
-<img align="right" src="https://github.com/urvashi1210/urvashi1210/blob/main/git1.gif" height="20%" width="20%" >
+<img align="right" src="https://github.com/sam1090/sam1090/blob/main/9659ef20-498c-4150-ac89-f936f5cc7b3e%20(1).gif" height="20%" width="20%" >
 
 - 🔭 I’m currently working on **MERN Projects.**
 
